@@ -1,0 +1,1 @@
+to move use commands w(up), a(left), s(down), d(right), r(reset), u(undo)
